@@ -6,7 +6,7 @@
   
 ![신작1](https://github.com/JongHoooon/JongHoooon/assets/98168685/57dc9f77-b153-47e5-a69a-e475dc2a50aa)
   
-### Service
+### Service Link
   
 - [App Store](https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%91/id6449455462)
 - [Play Store](https://play.google.com/store/apps/details?id=io.sinzak.android&pli=1)
@@ -26,7 +26,7 @@
   
 ![todomoooon](https://github.com/JongHoooon/JongHoooon/assets/98168685/bea38f62-c924-4ab7-a2fc-1105042e6c02)
 
-### Service
+### Service Link
   
 - [App Store](https://apps.apple.com/kr/app/todo-moon/id1660360539)
 
