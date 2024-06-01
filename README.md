@@ -18,7 +18,7 @@
 
 <details> &nbsp;
  <summary>
-  &nbsp;<a href = "https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%91/id6449455462">신작 </a>: 떠오르는 작가들의 작품 거래 및 작업 의뢰 플랫폼 <sub>[iOS, AOS, Web](2023.03 ~ 운영중)</sub> 
+  &nbsp;<a href = "https://apps.apple.com/kr/app/%EC%8B%A0%EC%9E%91/id6449455462">신작 </a>: 떠오르는 작가들의 작품 거래 및 작업 의뢰 플랫폼 <sub>[iOS, AOS, Web](2023.03 ~ 2024.01)</sub> 
  </summary>
   
 ![신작1](https://github.com/JongHoooon/JongHoooon/assets/98168685/57dc9f77-b153-47e5-a69a-e475dc2a50aa)
